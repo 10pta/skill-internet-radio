@@ -20,7 +20,7 @@
                         "name": "station_url",
                         "type": "text",
                         "label": "Station URL",
-                        "value": "http://m.rrr.org.au/mlive/"
+                        "value": "http://s2.stationplaylist.com:9020/3RRRFM"
                     }
                 ]
             },
