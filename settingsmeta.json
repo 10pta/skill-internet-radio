@@ -14,6 +14,17 @@
                 ]
             },
             {
+                "name": "Internet Radio",
+                "fields": [
+                    {
+                        "name": "station_url",
+                        "type": "text",
+                        "label": "Station URL",
+                        "value": "http://m.rrr.org.au/mlive/"
+                    }
+                ]
+            },
+            {
                 "name": "Rock Station URL",
                 "fields": [
                     {
