@@ -6,7 +6,7 @@ Play internet radio stations using Mycroft.
 Manage your station URLs at home.mycroft.ai -> Skills.
 
 ## Current limitations
-Limited to mpeg streams.
+Limited to mpeg streams. Perhaps change player backend to mplayer to allow for AAC ?
 
 ## Examples 
 * "internet radio"
@@ -40,6 +40,7 @@ Limited to mpeg streams.
 * "techno radio"
 * "play goa psy trance"
 * "listen to progressive psy trance"
+
 ## How to change stations
 Open the stream file (e.g. .pls, .m3u, etc.) in a text editor, copy the URL within, paste it into the skill's setting at [home.mycroft.ai](home.mycroft.ai) and save the changes.
 
