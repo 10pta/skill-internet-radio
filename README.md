@@ -5,6 +5,9 @@ Play internet radio station.
 Play internet radio stations using Mycroft.  
 Manage your station URLs at home.mycroft.ai -> Skills.
 
+## Current limitations
+Limited to mpeg streams.
+
 ## Examples 
 * "internet radio"
 * "web radio"
